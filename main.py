@@ -5,7 +5,7 @@ import mysql.connector
 import datetime
 import random
 import smtplib
-
+import mysql 
 
 #XAMPP day]tabase connectivity(on local host only)
 
